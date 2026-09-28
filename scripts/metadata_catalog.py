@@ -56,6 +56,11 @@ def _count_plugins(entry: dict, token: str | None) -> dict:
         except HTTPError as e:
             last = e.code
             continue
+        except ValueError as e:
+            # A 200 whose body is not JSON: empty file, BOM, an HTML error page
+            # served by a proxy. json.loads raises JSONDecodeError, a ValueError,
+            # which the clauses below do not cover.
+            return {"full": full, "count": 0, "status": "error", "note": f"invalid JSON: {str(e)[:100]}", "branch": f['branch'], "path": rel.rsplit('/',1)[0]}
         except (URLError, OSError, TimeoutError) as e:
             return {"full": full, "count": 0, "status": "error", "note": str(e)[:120], "branch": f['branch'], "path": f['path']}
     status = "missing" if last == 404 else "forbidden" if last == 403 else "error"
@@ -67,7 +72,14 @@ def count_plugins(entries: list[dict], max_workers: int = 8) -> dict[str, dict]:
     with ThreadPoolExecutor(max_workers=max_workers) as ex:
         futs = {ex.submit(_count_plugins, e, token): e for e in entries}
         for fut in as_completed(futs):
-            r = fut.result()
+            try:
+                r = fut.result()
+            except Exception as e:
+                # One unreachable repository out of several thousand must not
+                # abort the whole catalog: report it as a row and keep going.
+                f = _fields(futs[fut])
+                r = {"full": f"{f['owner']}/{f['name']}", "count": 0, "status": "error",
+                     "note": f"{type(e).__name__}: {str(e)[:100]}", "branch": f['branch'], "path": f['path']}
             out[r["full"]] = r
     return out
 
