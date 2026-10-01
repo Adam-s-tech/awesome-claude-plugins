@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **3721**
-- Discoverable plugins: **12,373**
-- Healthy repos: **3324** · Unavailable: **397**
-- Last updated: **2026-09-30 22:58 UTC**
+- Discoverable plugins: **12,341**
+- Healthy repos: **3323** · Unavailable: **398**
+- Last updated: **2026-10-01 02:01 UTC**
 
 ## Source Catalog
 
@@ -1511,7 +1511,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [Junhanliu-dev/espalier-engineering](https://github.com/Junhanliu-dev/espalier-engineering) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [junioorosa/claude-sessions](https://github.com/junioorosa/claude-sessions) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [junoh-bg/claude-pokemon-pet](https://github.com/junoh-bg/claude-pokemon-pet) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [juscribe/jus-skills](https://github.com/juscribe/jus-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [juscribe/jus-skills](https://github.com/juscribe/jus-skills) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [just-done/skills](https://github.com/just-done/skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [justhandledlabs/skills](https://github.com/justhandledlabs/skills) | 13 | `main` | `.claude-plugin` | ✅ ok |  |
 | [justinstimatze/onsetter](https://github.com/justinstimatze/onsetter) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -2986,7 +2986,6 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [tms-tungnguyen3/daily_working](https://github.com/tms-tungnguyen3/daily_working) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [TNT-Likely/honeycomb](https://github.com/TNT-Likely/honeycomb) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
 | [toBzh30/Claude-Project-Bootstrap](https://github.com/toBzh30/Claude-Project-Bootstrap) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
-| [tokenmaxxxer/on-the-record](https://github.com/tokenmaxxxer/on-the-record) | 33 | `main` | `.claude-plugin` | ✅ ok |  |
 | [TokiDEV/team-skills](https://github.com/TokiDEV/team-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [tomascupr/reelql](https://github.com/tomascupr/reelql) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [tomerhayundev/skills](https://github.com/tomerhayundev/skills) | 14 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -3694,6 +3693,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [thoughtbot/rails-consultant](https://github.com/thoughtbot/rails-consultant) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [threadgill-dev/dvd-autorip-skill](https://github.com/threadgill-dev/dvd-autorip-skill) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [timwukp/agent-skills-best-practice](https://github.com/timwukp/agent-skills-best-practice) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
+| [tokenmaxxxer/on-the-record](https://github.com/tokenmaxxxer/on-the-record) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [tomoking2004/claude-plugins](https://github.com/tomoking2004/claude-plugins) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [TomVDH/toolshed](https://github.com/TomVDH/toolshed) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
 | [tomzion90/superstack](https://github.com/tomzion90/superstack) | 0 | `main` | `.claude-plugin` | ❌ missing | HTTP 404; marketplace.json not found |
