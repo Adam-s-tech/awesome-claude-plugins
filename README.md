@@ -5,9 +5,9 @@
 Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or mirror upstream content; it tracks marketplace repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts entries in each `marketplace.json` via GitHub API.
 
 - Enabled marketplaces: **3847**
-- Discoverable plugins: **12,725**
+- Discoverable plugins: **12,731**
 - Healthy repos: **3439** · Unavailable: **408**
-- Last updated: **2026-10-03 17:09 UTC**
+- Last updated: **2026-10-03 20:53 UTC**
 
 ## Source Catalog
 
@@ -176,7 +176,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [ajitta/Game-Engagement-Retention-Skills](https://github.com/ajitta/Game-Engagement-Retention-Skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ajitta/know-your-unknowns](https://github.com/ajitta/know-your-unknowns) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [akasecurity/ai-tc](https://github.com/akasecurity/ai-tc) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
-| [akasecurity/marketplace](https://github.com/akasecurity/marketplace) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
+| [akasecurity/marketplace](https://github.com/akasecurity/marketplace) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
 | [akholod/consensus-review](https://github.com/akholod/consensus-review) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [akidly/yasmine](https://github.com/akidly/yasmine) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [akovalion/paranoid-qa](https://github.com/akovalion/paranoid-qa) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -203,7 +203,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [alexgreensh/eval-genius](https://github.com/alexgreensh/eval-genius) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [alexgreensh/outsourcerer](https://github.com/alexgreensh/outsourcerer) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [alexgreensh/repo-forensics](https://github.com/alexgreensh/repo-forensics) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [alexgreensh/token-optimizer](https://github.com/alexgreensh/token-optimizer) | 3 | `main` | `.claude-plugin` | ✅ ok |  |
+| [alexgreensh/token-optimizer](https://github.com/alexgreensh/token-optimizer) | 4 | `main` | `.claude-plugin` | ✅ ok |  |
 | [alexkohinor/verbatim-compaction](https://github.com/alexkohinor/verbatim-compaction) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [alexmakarski/critic-gauntlet](https://github.com/alexmakarski/critic-gauntlet) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [alexmmatos/essentials-claude-code](https://github.com/alexmmatos/essentials-claude-code) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1614,7 +1614,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [kazukinagata/shinkoku](https://github.com/kazukinagata/shinkoku) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [kbelasheuski/ios-architecture-skills](https://github.com/kbelasheuski/ios-architecture-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [kbichave/deep-plan-enhanced](https://github.com/kbichave/deep-plan-enhanced) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [kcsujeet/kc-claude-kit](https://github.com/kcsujeet/kc-claude-kit) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
+| [kcsujeet/kc-claude-kit](https://github.com/kcsujeet/kc-claude-kit) | 6 | `main` | `.claude-plugin` | ✅ ok |  |
 | [keegan-dotcom/encore-lite](https://github.com/keegan-dotcom/encore-lite) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [kelegele/oh-my-pm](https://github.com/kelegele/oh-my-pm) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [keli-wen/agy-staff](https://github.com/keli-wen/agy-staff) | 1 | `master` | `.claude-plugin` | ✅ ok |  |
@@ -2841,7 +2841,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [smixs/skill-conductor](https://github.com/smixs/skill-conductor) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [smk-labs/claude-plugins](https://github.com/smk-labs/claude-plugins) | 13 | `main` | `.claude-plugin` | ✅ ok |  |
 | [smshahbaj/crucible](https://github.com/smshahbaj/crucible) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [smykla-skalski/sai](https://github.com/smykla-skalski/sai) | 21 | `main` | `.claude-plugin` | ✅ ok |  |
+| [smykla-skalski/sai](https://github.com/smykla-skalski/sai) | 23 | `main` | `.claude-plugin` | ✅ ok |  |
 | [sneg55/agent-starter](https://github.com/sneg55/agent-starter) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [snehag01/rebound](https://github.com/snehag01/rebound) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [snflkd/fluent-korean](https://github.com/snflkd/fluent-korean) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -3382,7 +3382,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [yojahny55/claude-wp-builder](https://github.com/yojahny55/claude-wp-builder) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [yokeloop/yoke](https://github.com/yokeloop/yoke) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [YonasValentin/claude-kimi-relay](https://github.com/YonasValentin/claude-kimi-relay) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) | 5 | `main` | `.claude-plugin` | ✅ ok |  |
+| [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) | 6 | `main` | `.claude-plugin` | ✅ ok |  |
 | [youki0p0/jen-marketplace](https://github.com/youki0p0/jen-marketplace) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [youndie/docs-bootstrap](https://github.com/youndie/docs-bootstrap) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [young1lin/claude-token-monitor](https://github.com/young1lin/claude-token-monitor) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
