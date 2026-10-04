@@ -7,7 +7,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 - Enabled marketplaces: **3860**
 - Discoverable plugins: **12,747**
 - Healthy repos: **3452** · Unavailable: **408**
-- Last updated: **2026-10-03 23:41 UTC**
+- Last updated: **2026-10-04 05:17 UTC**
 
 ## Source Catalog
 
@@ -407,7 +407,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [ayaangazali/graph-engineering](https://github.com/ayaangazali/graph-engineering) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [aycandv/claude-usage-meter](https://github.com/aycandv/claude-usage-meter) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [aydincan/turk-hukuku-ve-claude](https://github.com/aydincan/turk-hukuku-ve-claude) | 81 | `main` | `.claude-plugin` | ✅ ok |  |
-| [AyeJK/phase-runner](https://github.com/AyeJK/phase-runner) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
+| [AyeJK/phase-runner](https://github.com/AyeJK/phase-runner) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [aymkin/fluent](https://github.com/aymkin/fluent) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [AZidan/archflow](https://github.com/AZidan/archflow) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
@@ -1575,7 +1575,7 @@ Metadata catalog for Claude plugin marketplaces. This repo does **not** clone or
 | [Junhanliu-dev/espalier-engineering](https://github.com/Junhanliu-dev/espalier-engineering) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [junioorosa/claude-sessions](https://github.com/junioorosa/claude-sessions) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [junoh-bg/claude-pokemon-pet](https://github.com/junoh-bg/claude-pokemon-pet) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
-| [juscribe/jus-skills](https://github.com/juscribe/jus-skills) | 2 | `main` | `.claude-plugin` | ✅ ok |  |
+| [juscribe/jus-skills](https://github.com/juscribe/jus-skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [just-done/skills](https://github.com/just-done/skills) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
 | [justhandledlabs/skills](https://github.com/justhandledlabs/skills) | 13 | `main` | `.claude-plugin` | ✅ ok |  |
 | [justinstimatze/onsetter](https://github.com/justinstimatze/onsetter) | 1 | `main` | `.claude-plugin` | ✅ ok |  |
